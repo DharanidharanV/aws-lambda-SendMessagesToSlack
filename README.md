@@ -16,7 +16,7 @@ const options = {
         path: "/services/*********",
       };
 ```
-
+>After successful Setting up AWS Lambda code & Slack
 
 ## To Test run your Lambda
 
